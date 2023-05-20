@@ -170,11 +170,11 @@ img {
         }
     }
 .img2{ 
-    background-image:url(/assets/profesor-universitario.jpg);
+    background-image:url(../assets/profesor-universitario.jpg);
 }
 .img3{
-    background-image:url(/assets/hombre\ trabajando\ alta\ tension.jpg);
+    background-image:url(../assets/hombre\ trabajando\ alta\ tension.jpg);
 }
 .img4{
-    background-image: url(/assets/tablet.jpg);
+    background-image: url(../assets/tablet.jpg);
 }
